@@ -1,7 +1,7 @@
 # CS312-Module5
 
 **WELCOME TO MY MODULE 5 REPO**
-
+# collaborator: Paul Mayoral
 
 MIT License
 
