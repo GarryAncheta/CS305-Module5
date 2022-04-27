@@ -2,7 +2,7 @@
 
 **WELCOME TO MY MODULE 5 REPO**
 # collaborator: Paul Mayoral
-
+# collaborator: James Scarbrough
 MIT License
 
 Copyright (c) 2022 Garry Ancheta and others
